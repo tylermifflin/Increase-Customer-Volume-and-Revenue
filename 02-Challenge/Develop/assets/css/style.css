@@ -58,6 +58,21 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* I moved content on the CSS to match order of the HTML sheet*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* I combined these three classes into one since they all do the same thing, I also moved it to match order of appearance in HTML sheet */
+.search-engine-optimization .online-reputation-management .social-media-marketing{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
 .float-left {
     float: left;
@@ -69,11 +84,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 .benefits {
     margin-right: 20px;
@@ -104,15 +115,7 @@ p {
     max-width: 150px;
 }
 
-/* I combined these three classes into one since they all do the same thing */
-.search-engine-optimization .online-reputation-management .social-media-marketing{
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+
 
 
 /* I combined these three classes into one since they all do the same thing */
