@@ -16,10 +16,6 @@
     -I added comments in the HTML and CSS showing each change that I made, making it very easy to follow. 
     -The changes I made will help with the long term sustainability of the website and will make it very easy and simple to add content or make any changes.
 
-# A look into the project:
-file:///Users/tylermifflin/bootcamp/Module--1--Challenge/02-Challenge/Develop/index.html 
-
-
 # License: N/A
 # Installation: N/A
 # Credits: N/A
