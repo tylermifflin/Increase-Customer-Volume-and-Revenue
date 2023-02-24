@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Increase Customer Volune and Revenue
 # The Purpose of this project was to refactor exisitng code while keeping the same vision and purpose of the website. One of the main goals was to increase the overall accessibility of the website. 
 # Usage: This website is built to help business owners increase customer volume and revenue by learning to increase their Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
@@ -8,7 +7,6 @@
 # The Purpose of this project was to refactor exisitng code while keeping the same vision and purpose of the website. One of the main goals was to increase the overall accessibility of the website. 
 # Usage: This website is built to help business owners increase customer volume and revenue by learning to increase their Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 # Noteworty Upgrades:
->>>>>>> 3620c11bca9bb99a367bd506f25ffb504a97dbe6
     -I added alt descriptions to each image to increase the website's accessibility.
     -I fixed the hyperlink for "Search Engine Optimization" in the header.
     -I added the proper HTML tags that were missing from the original code to improve the HTML semantics (header, nav, main, section, aside, footer)
@@ -18,15 +16,11 @@
     -I added comments in the HTML and CSS showing each change that I made, making it very easy to follow. 
     -The changes I made will help with the long term sustainability of the website and will make it very easy and simple to add content or make any changes.
 
-<<<<<<< HEAD
-# A Look into the project:
-
 
 # License: N/A
 # Installation: N/A
 # Credits: N/A
 
 
-=======
->>>>>>> 3620c11bca9bb99a367bd506f25ffb504a97dbe6
+
 
