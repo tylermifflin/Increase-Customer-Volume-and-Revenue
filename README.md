@@ -17,7 +17,7 @@
     -The changes I made will help with the long term sustainability of the website and will make it very easy and simple to add content or make any changes.
 
 # A look into the project:
-http://127.0.0.1:5501/02-Challenge/Develop/index.html#social-media-marketing
+file:///Users/tylermifflin/bootcamp/Module--1--Challenge/02-Challenge/Develop/index.html 
 
 
 # License: N/A
