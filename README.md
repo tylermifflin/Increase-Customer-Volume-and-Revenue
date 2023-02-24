@@ -1,11 +1,6 @@
 # Increase Customer Volume and Revenue
 # The Purpose of this project was to refactor exisitng code while keeping the same vision and purpose of the website. One of the main goals was to increase the overall accessibility of the website. 
 # Usage: This website is built to help business owners increase customer volume and revenue by learning to increase their Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
-# Description of Noteworthy Upgrades:
-=======
-# Increase Customer Volume and Revenue
-# The Purpose of this project was to refactor exisitng code while keeping the same vision and purpose of the website. One of the main goals was to increase the overall accessibility of the website. 
-# Usage: This website is built to help business owners increase customer volume and revenue by learning to increase their Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 # Noteworty Upgrades:
     -I added alt descriptions to each image to increase the website's accessibility.
     -I fixed the hyperlink for "Search Engine Optimization" in the header.
