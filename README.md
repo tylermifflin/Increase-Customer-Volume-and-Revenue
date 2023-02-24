@@ -1,4 +1,4 @@
-# Increase Customer Volune and Revenue
+# Increase Customer Volume and Revenue
 # The Purpose of this project was to refactor exisitng code while keeping the same vision and purpose of the website. One of the main goals was to increase the overall accessibility of the website. 
 # Usage: This website is built to help business owners increase customer volume and revenue by learning to increase their Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 # Description of Noteworthy Upgrades:
@@ -15,6 +15,9 @@
     -I changed the order of some of the CSS classes to make them match the order that they appear in the HTML.
     -I added comments in the HTML and CSS showing each change that I made, making it very easy to follow. 
     -The changes I made will help with the long term sustainability of the website and will make it very easy and simple to add content or make any changes.
+
+# A look into the project:
+http://127.0.0.1:5501/02-Challenge/Develop/index.html#social-media-marketing
 
 
 # License: N/A
